@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Color and Input Demo</string>
+    <string name="noting"></string>
+    <string name="submit_btn">Submit</string>
+</resources>
